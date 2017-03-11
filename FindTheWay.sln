@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{364815A8-A572-487A-A4E3-D43EF26583D8}") = "FindTheWay", "Assembly-CSharp.csproj", "{4C9DC2F9-3689-B559-A542-46AF21755F45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C9DC2F9-3689-B559-A542-46AF21755F45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C9DC2F9-3689-B559-A542-46AF21755F45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C9DC2F9-3689-B559-A542-46AF21755F45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C9DC2F9-3689-B559-A542-46AF21755F45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
